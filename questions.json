@@ -1,3 +1,74 @@
-﻿{
-
-}
+﻿[
+  {
+    "text": "Quelle est la capitale de la France ?",
+    "reponses": [
+      "Paris",
+      "Lyon",
+      "Marseille"
+    ],
+    "reponseCorrecte": "Paris"
+  },
+  {
+    "text": "Quelle est la capitale de l'Espagne ?",
+    "reponses": [
+      "Barcelone",
+      "Madrid",
+      "Valence"
+    ],
+    "reponseCorrecte": "Madrid"
+  },
+  {
+    "text": "Quelle est la capitale de l'Allemagne ?",
+    "reponses": [
+      "Munich",
+      "Berlin",
+      "Hambourg"
+    ],
+    "reponseCorrecte": "Berlin"
+  },
+  {
+    "text": "Quelle est la capitale de l'Italie ?",
+    "reponses": [
+      "Rome",
+      "Venise",
+      "Florence"
+    ],
+    "reponseCorrecte": "Rome"
+  },
+  {
+    "text": "Quelle est la capitale du Japon ?",
+    "reponses": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto"
+    ],
+    "reponseCorrecte": "Tokyo"
+  },
+  {
+    "text": "Quelle est la capitale de la Chine ?",
+    "reponses": [
+      "Pékin",
+      "Shanghai",
+      "Hong Kong"
+    ],
+    "reponseCorrecte": "Pékin"
+  },
+  {
+    "text": "Quelle est la capitale du Brésil ?",
+    "reponses": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília"
+    ],
+    "reponseCorrecte": "Brasília"
+  },
+  {
+    "text": "Quelle est la capitale de l'Australie ?",
+    "reponses": [
+      "Melbourne",
+      "Sydney",
+      "Canberra"
+    ],
+    "reponseCorrecte": "Canberra"
+  }
+]
